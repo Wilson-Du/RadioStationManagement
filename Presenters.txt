@@ -1,0 +1,4 @@
+3
+Kemo 35 18000
+Donald 42 21000
+Jacklin 25 16000
